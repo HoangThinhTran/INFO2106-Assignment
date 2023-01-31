@@ -16,7 +16,7 @@
 <nav>
 	<img src="../images/logo.png" width="767" height="332" alt=""/>
 	<ul>
-    	<li><a href="../home.html">home</a></li>
+    	<li><a href="../index.html">home</a></li>
 		<li>
 			<div class = "arrow">
 				<a href="../cabins.html">cabins</a>
