@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+	<link href="../css/style.css" rel="stylesheet" type="text/css">
+	<link rel="icon" href="images/favicon.png">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+
+<body>
+<nav>
+	<img src="../images/logo.png" width="767" height="332" alt=""/>
+	<ul>
+    	<li><a href="../home.html">home</a></li>
+		<li>
+			<div class = "arrow">
+				<a href="../cabins.html">cabins</a>
+				<i class="material-icons">keyboard_arrow_down</i>
+			</div>
+			<div class="dropdown-content">
+				<a href="../cabins.html#ark">the ark cabin</a>
+				<a href="../cabins.html#cougar">cougar cabin</a>
+				<a href="../cabins.html#lynx">lynx cabin</a>
+				<a href="../cabins.html#elk">elk cabin</a>
+				<a href="../cabins.html#moose">moose cabin</a>
+				<a href="../cabins.html#beaver">beaver cabin</a>
+				<a href="../cabins.html#deer">deer cabin</a>
+				<a href="../cabins.html#bear">bear cabin</a>
+				<a href="../cabins.html#trapper">trapper's cabin</a>
+			</div>
+		</li>
+		<li><a href="../gallery.html">gallery</a></li>
+		<li>
+			<div class = "arrow">
+				<a href="../contact.html">contact us</a>
+				<i class="material-icons">keyboard_arrow_down</i>
+			</div>
+			<div class="dropdown-content">
+				<a href="#">faq</a>
+				<a href="#">policies</a>
+			</div>
+		</li>
+	</ul>
+</nav>
+
+<!-- TemplateBeginEditable name="main" -->
+<main>
+	
+</main>
+<!-- TemplateEndEditable -->
+	
+<footer>
+	Created by Hoang Thinh Tran	
+</footer>
+</body>
+</html>
